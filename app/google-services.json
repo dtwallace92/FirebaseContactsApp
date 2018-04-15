@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1020692413",
+    "firebase_url": "https://fir-contacts-3ba3d.firebaseio.com",
+    "project_id": "fir-contacts-3ba3d",
+    "storage_bucket": "fir-contacts-3ba3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020692413:android:ab3d3c94f7ce7a12",
+        "android_client_info": {
+          "package_name": "com.example.dtwal.firebasecontacts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020692413-63qn5vsniii0rso5iuh3bl4b0l5a7b7l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dtwal.firebasecontacts",
+            "certificate_hash": "db3088ca9527c8f1a0c1392f0b6423134c2274f4"
+          }
+        },
+        {
+          "client_id": "1020692413-5jtga8lk948an8r2beatbh6e5j45pk3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuTlxZizzClmeAP7RlG1iAIxju3M8zeuE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020692413-5jtga8lk948an8r2beatbh6e5j45pk3k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
